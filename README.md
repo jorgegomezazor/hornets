@@ -1,4 +1,4 @@
-# hornets
+# Hornets
 Programa python que crea un PDF con las estadísticas de los jugadores de los Hornets y la predicción del siguiente partido
 ## Funcionamiento
 A continuación se explicarán los pasos necesarios para ejecutar correctamente el programa.
