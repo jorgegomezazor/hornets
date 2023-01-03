@@ -12,9 +12,9 @@ O mediante:
 pip install -r requirements.txt
 ```
 ### Archivos
-Todos los archivos aportados han de estar en el mismo directorio. El archivo a ejectutar es hornets.py de esta forma:
+Todos los archivos aportados han de estar en el mismo directorio. El archivo a ejectutar es nba.py de esta forma:
 ```
-python pizzas1.py
+python nba.py
 ```
 Además, en el fichero config.txt hay que añadir detrás del "=" y sin espacios la clave de la API "sportsdata.io"
 ## Output
